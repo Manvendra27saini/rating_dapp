@@ -1,4 +1,4 @@
-# Full-stack Solana DApp - README
+#Solana Ratings-DApp 
 
 Welcome to the **Full-stack Solana DApp** project repository! This decentralized application (DApp) leverages blockchain technology to implement a movie review platform on the Solana network. Participants can rate a movie by sharing its title, description and the location information.
 
